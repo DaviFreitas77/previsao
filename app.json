@@ -16,7 +16,12 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+       "permissions": [
+      "ACCESS_FINE_LOCATION",
+      "ACCESS_COARSE_LOCATION"
+    ],
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.AlertaClima"
     },
     "web": {
       "bundler": "metro",
