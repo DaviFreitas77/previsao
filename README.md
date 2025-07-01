@@ -21,7 +21,7 @@ Aplicativo para visualizar a temperatura com base na sua localização.
    npx expo run:android
    ```
 
-Certifique-se de isntalar o android studio https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783777&gbraid=0AAAAAC-IOZkGHzykCskIXITfC534ef0Kh&gclid=Cj0KCQjwjo7DBhCrARIsACWauSmVvT2aIxG7CObPkHFRFEuJVO8OZdg1EYswIWWh_K075fm8zAaBMnYaAqLJEALw_wcB&gclsrc=aw.ds&hl=pt-br
+Certifique-se de instalar o android studio https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783777&gbraid=0AAAAAC-IOZkGHzykCskIXITfC534ef0Kh&gclid=Cj0KCQjwjo7DBhCrARIsACWauSmVvT2aIxG7CObPkHFRFEuJVO8OZdg1EYswIWWh_K075fm8zAaBMnYaAqLJEALw_wcB&gclsrc=aw.ds&hl=pt-br
 
 
 ## Imagens do projeto
